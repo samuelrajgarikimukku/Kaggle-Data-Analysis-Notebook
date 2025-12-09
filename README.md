@@ -12,7 +12,7 @@ The notebook covers:
 
 ## Dataset
 The dataset used in this project is available on Kaggle:  
-[Kaggle Dataset Link](https://www.kaggle.com/)
+[Kaggle Dataset Link](https://github.com/samuelrajgarikimukku/Kaggle-Data-Analysis-Notebook/blob/main/DataSets.md)
 
 The dataset is not uploaded to this repository due to size and licensing rules.
 
